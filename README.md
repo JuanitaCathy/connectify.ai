@@ -30,7 +30,7 @@
 
 ## Video Demo 🎥
 
-Soon~
+https://youtu.be/2X5Xqu2yTGE
 
 ## Installation 🛠️
 

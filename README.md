@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ConnectifyAI
 
-## Getting Started
+**ConnectifyAI** is a collaborative coding platform designed for teams to discuss ideas, share code snippets, and manage tasks in real-time. This application serves as a prototype that will later be integrated into **Devorbit**, enhancing team collaboration and productivity.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Real-time Collaboration**: Work together with your teammates in shared code rooms.
+- **AI-Powered Assistant**: Get help and suggestions while coding, powered by the CopilotKit.
+- **Code Sharing**: Easily share and discuss code snippets within the chat interface.
+- **Task Management**: Manage tasks and todo lists to keep your projects organized.
+- **Responsive Design**: Accessible from various devices for seamless collaboration.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
+- **Next.js**: For server-side rendering and efficient routing.
+- **CopilotKit**: To integrate AI assistance into the coding workflow.
+- **Tailwind CSS**: For modern, responsive styling.
+- **TypeScript**: For type safety and a better development experience.
 
-To learn more about Next.js, take a look at the following resources:
+## Video Demo:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Soon~
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+To get started with ConnectifyAI, follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone the repository**:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/yourusername/connectifyai.git
+   cd connectifyai
+
+2. **Install Dependencies:**
+   ```
+   npm install
+   ```
+3. ***Set up environment variables:***
+   Create a .env file in the root directory and add your `GROQ_API_KEY`
+
+4. **Run the development server for the frontend:**
+   ```
+   npm run dev
+   ```
+
+# Usage
+- **Create a Code Room:** Start a new code room where you and your teammates can collaborate.
+- **Share Code:** Use the chat interface to share code snippets and discuss ideas.
+- **Interact with AI:** Utilize the AI assistant to get suggestions and help with coding tasks.

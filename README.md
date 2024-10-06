@@ -1,44 +1,45 @@
-# ConnectifyAI
+# ConnectifyAI 🚀
 
 **ConnectifyAI** is a collaborative coding platform designed for teams to discuss ideas, share code snippets, and manage tasks in real-time. This application serves as a prototype that will later be integrated into **Devorbit**, enhancing team collaboration and productivity.
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Video Demo](#video-demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Features ✨
 
-- **Real-time Collaboration**: Work together with your teammates in shared code rooms.
-- **AI-Powered Assistant**: Get help and suggestions while coding, powered by the CopilotKit.
-- **Code Sharing**: Easily share and discuss code snippets within the chat interface.
-- **Task Management**: Manage tasks and todo lists to keep your projects organized.
-- **Responsive Design**: Accessible from various devices for seamless collaboration.
+- **Real-time Collaboration**: Work together with your teammates in shared code rooms. 🤝
+- **AI-Powered Assistant**: Get help and suggestions while coding, powered by the CopilotKit. 🤖
+- **Code Sharing**: Easily share and discuss code snippets within the chat interface. 💻
+- **Task Management**: Manage tasks and todo lists to keep your projects organized. ✅
+- **Responsive Design**: Accessible from various devices for seamless collaboration. 📱
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - **Next.js**: For server-side rendering and efficient routing.
 - **CopilotKit**: To integrate AI assistance into the coding workflow.
 - **Tailwind CSS**: For modern, responsive styling.
 - **TypeScript**: For type safety and a better development experience.
 
-## Video Demo:
+## Video Demo 🎥
 
 Soon~
 
-## Installation
+## Installation 🛠️
 
 To get started with ConnectifyAI, follow these steps:
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/connectifyai.git
+   git clone https://github.com/JuanitaCathy/connectifyai.git
    cd connectifyai
 
 2. **Install Dependencies:**
@@ -53,7 +54,7 @@ To get started with ConnectifyAI, follow these steps:
    npm run dev
    ```
 
-# Usage
+# Usage 💡
 - **Create a Code Room:** Start a new code room where you and your teammates can collaborate.
 - **Share Code:** Use the chat interface to share code snippets and discuss ideas.
 - **Interact with AI:** Utilize the AI assistant to get suggestions and help with coding tasks.
